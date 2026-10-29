@@ -338,7 +338,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1940791848, guid: 2a7c972ae08659a488a0c7d2b6a4fcac, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1024,7 +1024,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f540583f1676e044a93dcb46b71dce52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DragonMove
-  speed: 5
+  speed: 7
   rat: {fileID: 2924820707479688996, guid: 65a7f7028e3a5ee49aa0d2a53ce6940d, type: 3}
   fireball: {fileID: 5169957171495654072, guid: 008b08571528fdf439d279e04c76a348, type: 3}
 --- !u!212 &1020841451
@@ -1074,7 +1074,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -923747267, guid: ecb3e6141822d634c90622987efa5ff0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
